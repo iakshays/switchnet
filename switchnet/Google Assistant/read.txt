@@ -1,0 +1,7 @@
+1st add google assistant and later add webhooks
+
+url :
+http://188.166.206.43/kuGenvt9SFo-AMoUfH5aIGsreC8xWKuS/update/D5
+
+the d5 pin is according to esp8266nodemcu
+kuge.... is authentication of blynk
